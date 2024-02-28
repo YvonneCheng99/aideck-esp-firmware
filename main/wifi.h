@@ -48,7 +48,6 @@ typedef struct {
     };
 } __attribute__((packed)) WifiTransportPacket_t;
 
-
 void wifi_init();
 
 // Interface used by the router
